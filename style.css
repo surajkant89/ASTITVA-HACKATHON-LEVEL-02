@@ -1,7 +1,31 @@
-body{
-    background-image: url(https://cdn.britannica.com/25/153525-050-FC43840D/Khaznah-Petra-Jordan.jpg);
+.liberty{
+    background-image: url(https://static.toiimg.com/thumb/77757963/Statue-of-Liberty.jpg?width=1550&height=900);
    
   
+}
+.wall{
+    background-image: url(https://static.toiimg.com/thumb/107587871/great-wall-of-china.jpg?width=1550&height=1100);
+   
+    background-size: auto;
+}
+.petra{
+    background-image: url(https://cdn.britannica.com/55/189755-050-73328263/Qasr-al-Bint-Temple-of-Dusares-Petra-facade.jpg);
+   
+    background-size: auto;
+
+}
+.christ{
+background-image: url(https://static.toiimg.com/thumb/103996442/Christ-the-Redeemer-in-Rio-de-Janeiro.jpg?width=1550&height=900);
+
+}
+.closn{
+    background-image: url(https://static.toiimg.com/thumb/53114296/Colosseum.jpg?width=1550&height=900);
+}
+.machu{
+    background-image: url(https://static.toiimg.com/thumb/106936821/Machu-Picchu.jpg?width=1550&height=900);
+}
+.taj{
+    background-image: url(https://static.toiimg.com/thumb/93065612/Taj-Mahal.jpg?width=1550&height=900); 
 }
 
 
